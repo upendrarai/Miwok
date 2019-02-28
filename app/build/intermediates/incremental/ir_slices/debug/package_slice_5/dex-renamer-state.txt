@@ -1,0 +1,4 @@
+#Fri Mar 01 04:55:40 IST 2019
+base.0=/home/upendra/AndroidStudioProjects/Miwok/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

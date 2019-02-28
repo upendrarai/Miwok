@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/df9df7840db908a861c4802692e7338c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/upendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b170b42b9a42f4c96c36b9d3cce9141/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f3ba0e74e1fcec5e9547fd7baead9df8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/24053097e956c6b95d17fbefc58d7714/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ffd71a75ea45f8dd043a1513eee8d98a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8e062c013328cc5f56766bdfd1d27e28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e468eb1f90014b8d64f19bd3b769e204/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/960fb64049524947ede1afe0cb354c45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7078b32c4ff34cd7376e3672fffa08fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/de25f05b292466fecd175675c7a9a324/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8bf933c834dba8b329923d45fc18590f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6dc60815e7b61cac8cfc550877e9fa3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/aa1284391ae18aa255304aa3e17fd53e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/84e64fa36cbcf7f0387b5516342b4cbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4a7ad828b68872c15f4bc8daf2433a5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b35c65fc6a605e38347b5f3f8568960/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7616548496db275fc76a63f8ab331a2b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c1e6152899d5dd7f4b6e767f71d13c1a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e19d083853d9f022c6a3169b601fc734/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ce1541b61df8f0d1b9be0e344f669582/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4a46f19123962192437549361c9bfdf1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b0edac15e26850c031f39fdec1c83302/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/18d1a89ee1296bc1fa511bff91a19403/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6a68484bdf20959fb50a7ad859b05711/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d4bd61a994b02e51819e9620ed1c3805/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49aee299e02d87edf780e1ded18ef360/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/00f7eae33a394d76df9daf28065d7895/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/upendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b170b42b9a42f4c96c36b9d3cce9141/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/upendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b170b42b9a42f4c96c36b9d3cce9141/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b35c65fc6a605e38347b5f3f8568960/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b35c65fc6a605e38347b5f3f8568960/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7616548496db275fc76a63f8ab331a2b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7616548496db275fc76a63f8ab331a2b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b35c65fc6a605e38347b5f3f8568960/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.miwok.MainActivity
+ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.android.miwok.NumbersActivity
+ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:19:9-20:65
+	android:label
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml:19:19-50
+uses-sdk
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/df9df7840db908a861c4802692e7338c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/df9df7840db908a861c4802692e7338c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/upendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b170b42b9a42f4c96c36b9d3cce9141/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/upendra/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1b170b42b9a42f4c96c36b9d3cce9141/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f3ba0e74e1fcec5e9547fd7baead9df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f3ba0e74e1fcec5e9547fd7baead9df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/24053097e956c6b95d17fbefc58d7714/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/24053097e956c6b95d17fbefc58d7714/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ffd71a75ea45f8dd043a1513eee8d98a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ffd71a75ea45f8dd043a1513eee8d98a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8e062c013328cc5f56766bdfd1d27e28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8e062c013328cc5f56766bdfd1d27e28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e468eb1f90014b8d64f19bd3b769e204/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e468eb1f90014b8d64f19bd3b769e204/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/960fb64049524947ede1afe0cb354c45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/960fb64049524947ede1afe0cb354c45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7078b32c4ff34cd7376e3672fffa08fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7078b32c4ff34cd7376e3672fffa08fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/de25f05b292466fecd175675c7a9a324/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/de25f05b292466fecd175675c7a9a324/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8bf933c834dba8b329923d45fc18590f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8bf933c834dba8b329923d45fc18590f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6dc60815e7b61cac8cfc550877e9fa3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6dc60815e7b61cac8cfc550877e9fa3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/aa1284391ae18aa255304aa3e17fd53e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/aa1284391ae18aa255304aa3e17fd53e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/84e64fa36cbcf7f0387b5516342b4cbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/84e64fa36cbcf7f0387b5516342b4cbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4a7ad828b68872c15f4bc8daf2433a5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4a7ad828b68872c15f4bc8daf2433a5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b35c65fc6a605e38347b5f3f8568960/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/1b35c65fc6a605e38347b5f3f8568960/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7616548496db275fc76a63f8ab331a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7616548496db275fc76a63f8ab331a2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c1e6152899d5dd7f4b6e767f71d13c1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c1e6152899d5dd7f4b6e767f71d13c1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e19d083853d9f022c6a3169b601fc734/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e19d083853d9f022c6a3169b601fc734/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ce1541b61df8f0d1b9be0e344f669582/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ce1541b61df8f0d1b9be0e344f669582/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4a46f19123962192437549361c9bfdf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4a46f19123962192437549361c9bfdf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b0edac15e26850c031f39fdec1c83302/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b0edac15e26850c031f39fdec1c83302/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/18d1a89ee1296bc1fa511bff91a19403/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/18d1a89ee1296bc1fa511bff91a19403/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6a68484bdf20959fb50a7ad859b05711/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6a68484bdf20959fb50a7ad859b05711/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d4bd61a994b02e51819e9620ed1c3805/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d4bd61a994b02e51819e9620ed1c3805/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49aee299e02d87edf780e1ded18ef360/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/upendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49aee299e02d87edf780e1ded18ef360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/00f7eae33a394d76df9daf28065d7895/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/upendra/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/00f7eae33a394d76df9daf28065d7895/AndroidManifest.xml:20:5-44
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+		ADDED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
+		INJECTED from /home/upendra/AndroidStudioProjects/Miwok/app/src/main/AndroidManifest.xml
