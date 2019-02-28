@@ -1,5 +1,6 @@
 package com.example.android.miwok;
 
+import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -15,7 +16,28 @@ import java.util.ArrayList;
 public class NumbersActivity extends AppCompatActivity {
 
     private MediaPlayer.OnCompletionListener  mOnCompletionListener= (mp -> mp.release());
-    MediaPlayer mediaPlayer;
+    private MediaPlayer mediaPlayer;
+
+    //AudioFocus handling
+    private AudioManager.OnAudioFocusChangeListener mOnAudioFocusChangeListener = (focusChange -> {
+                switch (focusChange){
+                    case AudioManager.AUDIOFOCUS_GAIN:
+                        mediaPlayer.start();
+                        break;
+                    case AudioManager.AUDIOFOCUS_LOSS:
+                        if(mediaPlayer!=null)
+                            mediaPlayer.release();
+                        break;
+                    case AudioManager.AUDIOFOCUS_LOSS_TRANSIENT:
+                    case AudioManager.AUDIOFOCUS_GAIN_TRANSIENT_MAY_DUCK:
+                        mediaPlayer.pause();
+                        mediaPlayer.seekTo(0);
+                        break;
+                }
+            });
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
