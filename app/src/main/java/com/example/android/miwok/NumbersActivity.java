@@ -57,7 +57,7 @@ public class NumbersActivity extends AppCompatActivity {
     }
 
 
-    //To release the resources acquired by media player before leaving the activity
+    //To release the resources acquired by media player object,  before leaving this activity
     @Override
     protected void onStop() {
         super.onStop();
