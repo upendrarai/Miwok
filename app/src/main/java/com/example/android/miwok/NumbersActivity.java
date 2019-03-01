@@ -1,5 +1,6 @@
 package com.example.android.miwok;
 
+import android.content.Context;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
@@ -18,7 +19,8 @@ public class NumbersActivity extends AppCompatActivity {
     private MediaPlayer.OnCompletionListener  mOnCompletionListener= (mp -> mp.release());
     private MediaPlayer mediaPlayer;
 
-    //AudioFocus handling
+    private AudioManager mAudioManager;
+
     private AudioManager.OnAudioFocusChangeListener mOnAudioFocusChangeListener = (focusChange -> {
                 switch (focusChange){
                     case AudioManager.AUDIOFOCUS_GAIN:
@@ -44,6 +46,9 @@ public class NumbersActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_numbers);
 
+        //Create and setup the {@Link AudioManager} to request  audio focus
+        mAudioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
+
         ArrayList<Word> wordList = new ArrayList<>();
         wordList.add(new Word("One","lutti"));
         wordList.add(new Word("two","otiiko"));
@@ -62,6 +67,7 @@ public class NumbersActivity extends AppCompatActivity {
         ListView listView = findViewById(R.id.list);
 
         listView.setAdapter(wordAdapter);
+
 
 
         listView.setOnItemClickListener((parent, view, position, id) -> {
@@ -83,7 +89,8 @@ public class NumbersActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
-        mediaPlayer.release();
+        if(mediaPlayer!=null)
+            mediaPlayer.release();
     }
 }
 

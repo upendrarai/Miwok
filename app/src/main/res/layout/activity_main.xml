@@ -6,14 +6,19 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical">
-    
-    <TextView
-        android:id="@+id/category_number"
-        style="@style/CategoryStyle"
-        android:text="@string/category_numbers"
-        android:background="@color/categoryNumbers"
-        android:onClick="openNumberList"
-        />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/categoryNumbers">
+        <TextView
+            android:id="@+id/category_number"
+            style="@style/CategoryStyle"
+            android:text="@string/category_numbers"
+            android:background="?android:attr/selectableItemBackground"
+            android:onClick="openNumberList"
+            />
+    </FrameLayout>
+
     <TextView
         style="@style/CategoryStyle"
         android:text="@string/category_phrases"
